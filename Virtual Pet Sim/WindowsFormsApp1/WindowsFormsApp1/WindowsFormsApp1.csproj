@@ -101,5 +101,17 @@
   <ItemGroup>
     <None Include="Resources\HOMESCREEN.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\file.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\file %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\file %281%29.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
